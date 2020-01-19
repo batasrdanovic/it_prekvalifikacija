@@ -1,0 +1,3 @@
+Zdravo, ovde cemo razmenjivati osnovne korake za git. Za povetak procitajte tutorial:
+https://hackernoon.com/understanding-git-fcffd87c15a3
+Ako vam bude trebalo vise puta da procitate znajte da je to normalno..
